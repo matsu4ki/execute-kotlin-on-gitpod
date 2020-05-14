@@ -1,0 +1,11 @@
+{
+  "name": "execute-kotlin-by-gitpod",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matsu4ki/execute-kotlin-by-gitpod.git",
+  "author": "matsu4ki <AmatsukiUrato@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+      "init": "brew install kotlin"
+  }
+}
